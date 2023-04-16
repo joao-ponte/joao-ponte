@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-ponte&label=Profile%20views&color=0e75b6&style=flat" alt="joao-ponte" /> </p>
 
 
-- 🌱 I'm dedicating myself full-time to studying the Udacity iOS Developer Nanodegree program and reading "Clean Architecture" and "Clean Coder" from the Robert C. Martin Series and also using Kodeco books like Swift Apprentice. In my free time, I work on small projects to solidify my understanding of iOS development.
+🌱 I'm dedicating myself full-time to studying the Udacity iOS Developer Nanodegree program and reading "Clean Architecture" and "Clean Coder" from the Robert C. Martin Series and also using Kodeco books like Swift Apprentice. In my free time, I work on small projects to solidify my understanding of iOS development.
 
 ***
 
 
-- ⚡ Fun fact: Swift was named after Taylor Swift, the popular American singer-songwriter, as she was known for her songwriting skills and Swift language was designed to be expressive and easy to read. func swift() -> bool {}
+⚡ Fun fact: Swift was named after Taylor Swift, the popular American singer-songwriter, as she was known for her songwriting skills and Swift language was designed to be expressive and easy to read. func swift() -> bool {}
 
 ***
 
