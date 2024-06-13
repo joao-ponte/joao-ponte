@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joao Ponte</h1>
-<h3 align="center">A passionate iOS developer.</h3>
+<h3 align="center">A passionate developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-ponte&label=Profile%20views&color=0e75b6&style=flat" alt="joao-ponte" /> </p>
 
 
-🌱 I'm dedicating myself full-time to studying the Udacity iOS Developer Nanodegree program and reading "Clean Architecture" and "Clean Coder" from the Robert C. Martin Series and also using Kodeco books like Swift Apprentice. In my free time, I work on small projects to solidify my understanding of iOS development.
+🌱 I'm dedicating myself full-time to studying the Northcoders Bootcamp and iOS development with Udacity iOS Developer Nanodegree program and reading "Clean Architecture" and "Clean Coder" from the Robert C. Martin Series and also using Kodeco books like Swift Apprentice. In my free time, I work on small projects to solidify my understanding of iOS development.
 
 ***
 
