@@ -8,9 +8,6 @@
 
 ***
 
-
-⚡ Fun fact: Swift was named after Taylor Swift, the popular American singer-songwriter, as she was known for her songwriting skills and Swift language was designed to be expressive and easy to read. func swift() -> bool {}
-
 ***
 
 <h3 align="left">Connect with me:</h3>
