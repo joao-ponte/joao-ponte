@@ -21,6 +21,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ponte&" alt="joao-ponte" /></p>
           
           
